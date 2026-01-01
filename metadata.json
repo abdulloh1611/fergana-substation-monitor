@@ -1,0 +1,7 @@
+{
+  "name": "Fergana Substation Monitor (FSM)",
+  "description": "A high-performance monitoring system for electrical substations in the Fergana region, featuring real-time voltage tracking, AI-powered diagnostics, and administrative reporting.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
